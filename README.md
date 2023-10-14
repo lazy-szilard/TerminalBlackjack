@@ -35,12 +35,11 @@ To run this program, you'll need to have Python 3 installed on your system. You 
 
 ## Screenshots
 
-Here are some screenshots from the game:
+Here are some screenshots from the game: *I am pleased with how it turned out*
 
 ![Blackjack Screenshot 1](https://github.com/lazy-szilard/TerminalBlackjack/blob/828b14fb7f83123780cb8b0d5d6a51657ca1f6ac/sceenshot_1.jpeg)
 
 ![Blackjack Screenshot 2](https://github.com/lazy-szilard/TerminalBlackjack/blob/136ddb75601a968ffd041f798b281c101c1e97c4/screenshot_2.jpeg)
-*I am pleased with how it turned out*
 
 ## Acknowledgments
 
