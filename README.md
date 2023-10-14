@@ -39,10 +39,8 @@ Here are some screenshots from the game:
 
 ![Blackjack Screenshot 1](https://github.com/lazy-szilard/TerminalBlackjack/blob/828b14fb7f83123780cb8b0d5d6a51657ca1f6ac/sceenshot_1.jpeg)
 
-![Blackjack Screenshot 2]([URL_TO_SCREENSHOT_2](https://github.com/lazy-szilard/TerminalBlackjack/blob/9f2b5b59fb9553f9033d588c786a0ec65a62022f/screenshot_2.jpeg)
+![Blackjack Screenshot 2]([URL_TO_SCREENSHOT_2](https://github.com/lazy-szilard/TerminalBlackjack/blob/136ddb75601a968ffd041f798b281c101c1e97c4/screenshot_2.jpeg)
 *I am pleased with how it turned out*
-
-...
 
 ## Acknowledgments
 
