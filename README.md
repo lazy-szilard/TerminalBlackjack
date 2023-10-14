@@ -1,6 +1,6 @@
 # Blackjack Game for Windows Terminal using Python
 
-This is a simple 1-player Blackjack game created using Python and designed to run in the Windows Terminal. The game was created by Sz as their 2nd milestone python-project for Pierian Data Complete Python3 Bootcamp to improve their understanding of classes/objects.
+This is a simple 1-player Blackjack game created using Python and designed to run in the Windows Terminal. The game was created by me as my 2nd milestone python-project for Pierian Data Complete Python3 Bootcamp to improve my understanding of classes/objects.
 
 ## Getting Started
 
